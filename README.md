@@ -6,6 +6,6 @@ $cd ~/Hello-World
 
 $git init
 
-$touch HelloWorld
+$touch readme
 
 ##This is a markdown file
